@@ -1,6 +1,6 @@
 			Interface d'analyse de données par apprentissage supervisé
 
-Avant de lancer l'application, veuillez installer les dépendances suivantes avec conda :
+Avant de lancer l'application, veuillez installer les dépendances suivantes avec conda : \n
 	```conda install selenium geckodriver firefox -c conda-forge```
 N.B. : vous ne pourrez pas sauvegarder les résultats de vos analyses sans cette installation.
 
